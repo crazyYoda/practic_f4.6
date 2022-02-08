@@ -10,4 +10,4 @@ __pycache__
 *.iws /out/
 
 #node
-node_modules
+my_recipes/node_modules
